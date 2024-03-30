@@ -2,7 +2,7 @@ int posicionM, posicionK, distanciaMK;
 // PosicionM (Mario) PosicionK (Koopa) 
 
 public void setup(){
-posicionM=4;
+posicionM=5;
 posicionK=10;
 calculardistancia();
 mostrardistancia();
