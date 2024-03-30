@@ -1,4 +1,5 @@
 int posicionM, posicionK, distanciaMK;
+// PosicionM (Mario) PosicionK (Koopa) 
 
 public void setup(){
 posicionM=4;
